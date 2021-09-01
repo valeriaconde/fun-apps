@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TcF+sj60+jlQqnn8mHIaTR4SOOggpgqHTkgRVviE5bhQUdVk+jBap9b/492qXSojYN2QsXEX1KigS5jsgkfvXw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\t-valeriac\\Documents\\VS Random Apps\\dinoapp\\dinoapp\\dinoapp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\t-valeriac\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.17\\microsoft.netcore.app.host.win-x64.3.1.17.nupkg.sha512"
+  ],
+  "logs": []
+}

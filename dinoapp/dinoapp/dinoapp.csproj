@@ -1,0 +1,73 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="dino.jpeg" />
+    <None Remove="dino10.jpg" />
+    <None Remove="dino11.jpg" />
+    <None Remove="dino12.jpg" />
+    <None Remove="dino13.jpg" />
+    <None Remove="dino14.jpg" />
+    <None Remove="dino15.jpeg" />
+    <None Remove="dino16.jpg" />
+    <None Remove="dino17.jpg" />
+    <None Remove="dino18.png" />
+    <None Remove="dino2.png" />
+    <None Remove="dino20.jpg" />
+    <None Remove="dino21.jpg" />
+    <None Remove="dino22.jpg" />
+    <None Remove="dino23.jpg" />
+    <None Remove="dino24.jpg" />
+    <None Remove="dino25.jpg" />
+    <None Remove="dino28.jpg" />
+    <None Remove="dino29.jpg" />
+    <None Remove="dino3.jpg" />
+    <None Remove="dino30.jpg" />
+    <None Remove="dino31.jpg" />
+    <None Remove="dino4.jpg" />
+    <None Remove="dino5.jpg" />
+    <None Remove="dino6.png" />
+    <None Remove="dino7.jpg" />
+    <None Remove="dino8.jpg" />
+    <None Remove="dino9.jpg" />
+    <None Remove="Microsoft_Pride_21_Bisexual.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="dino.jpeg" />
+    <Resource Include="dino10.jpg" />
+    <Resource Include="dino11.jpg" />
+    <Resource Include="dino12.jpg" />
+    <Resource Include="dino13.jpg" />
+    <Resource Include="dino14.jpg" />
+    <Resource Include="dino15.jpeg" />
+    <Resource Include="dino16.jpg" />
+    <Resource Include="dino17.jpg" />
+    <Resource Include="dino18.png" />
+    <Resource Include="dino2.png" />
+    <Resource Include="dino20.jpg" />
+    <Resource Include="dino21.jpg" />
+    <Resource Include="dino22.jpg" />
+    <Resource Include="dino23.jpg" />
+    <Resource Include="dino24.jpg" />
+    <Resource Include="dino25.jpg" />
+    <Resource Include="dino28.jpg" />
+    <Resource Include="dino29.jpg" />
+    <Resource Include="dino3.jpg" />
+    <Resource Include="dino30.jpg" />
+    <Resource Include="dino31.jpg" />
+    <Resource Include="dino4.jpg" />
+    <Resource Include="dino5.jpg" />
+    <Resource Include="dino6.png" />
+    <Resource Include="dino7.jpg" />
+    <Resource Include="dino8.jpg" />
+    <Resource Include="dino9.jpg" />
+    <Resource Include="Microsoft_Pride_21_Bisexual.jpg" />
+  </ItemGroup>
+
+</Project>

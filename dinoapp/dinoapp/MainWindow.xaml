@@ -1,0 +1,13 @@
+﻿<Window x:Class="dinoapp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:dinoapp"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TextBox HorizontalAlignment="Center" Margin="0,326,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="744" Height="87" KeyDown="TextBox_KeyDown"/>
+        <Image Name="img" HorizontalAlignment="Left" Height="250" Margin="540,90,0,0" VerticalAlignment="Top" Width="250"/>
+    </Grid>
+</Window>
